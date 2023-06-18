@@ -1,0 +1,59 @@
+html {
+    background-color: #caf0f8;
+}
+
+header {
+    height: 130px;
+    color: #caf0f8;
+    background-color: #000000;
+    border: 1px solid grey;
+    text-align: center;
+}
+
+article {
+    margin: 50px 560px;
+}
+
+img {
+    text-align: center;
+}
+
+h1 {
+    font-family: serif;
+    font-style: italic;
+}
+
+h2 {
+    color: #03045e;
+    text-align: center;
+    font-family: Cambria, Cochin;
+    font-style: italic;
+}
+
+h3 {
+    font-family: Courier New, monospace;
+    font-size: 15px;
+    font-style: italic;
+}
+
+p {
+    padding: 0 10px;
+    text-align: justify;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+footer {
+    background-color: #000000;
+    color: #faedcd;
+    height: 70px;
+}
+
+.foot {
+    text-align: center;
+    padding: 25px 0;
+}
+
+/* pseudo classes */
+a:hover {
+    color: #ae2012;
+}
