@@ -1,0 +1,13 @@
+input {
+    display: block;
+    width: 98%;
+}
+
+textarea {
+    display: block;
+    width: 98.4%;
+}
+
+label {
+    font-weight: bold;
+}
